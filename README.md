@@ -1,6 +1,6 @@
 # Sketch Drawing Tool
 
-Beautiful sketch drawing tool built with __JavaScript__ & __HTML5 Canvas__. Try to draw something on the blank page and see magic!
+A beautiful sketch drawing tool built with __JavaScript__ & __HTML5 Canvas__. Try to draw something on the blank page and see magic!
 
 
 ## Preview
